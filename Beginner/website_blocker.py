@@ -11,8 +11,7 @@ redirect = "127.0.0.1"
 
 # websites to be blocked
 
-website_list =
-["www.facebook.com", "www.instagram.com", "www.twitter.com"]
+website_list = ["www.facebook.com", "www.instagram.com", "www.twitter.com"]
 
 while True:
     #time of your work
