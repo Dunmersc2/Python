@@ -18,7 +18,7 @@ while (loop <10):
 	print ("Be kind to your",p_noun,"in",place)
 	print ("Where the weather is always", adjective,".")
 	print ()
-	print ("You may think that is this the",nounc3,",")
+	print ("You may think that is this the",noun3,",")
 	print ("Well it is.")
 	print ("----------------------------------------")
 // Loop back to "loop = 1"
